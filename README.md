@@ -1,5 +1,5 @@
 # OOPs-mini-project
- I create a Library Management Software while Learning Python oops .
+Library Management Software while Learning Python.
 
 # It has some fetures like.
 
